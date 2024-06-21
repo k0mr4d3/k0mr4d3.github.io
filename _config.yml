@@ -1,15 +1,19 @@
 # Example Site settings
 
 #google_analytics: UA-NNNNNNNN-N
+title: 'k0mr4d3'
+description: "Where I write about everything"
+baseurl: "/"
+url: "https://k0mr4d3.github.io"
 
-#header_pages:
-#  - index.md
+header_pages:
+  - index.md
 #  - about.md
 
-#footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: '<a href="https://twitter.com/k0mr4d352">twitter</a> | <a href="https://instagram.com/k0mr4d3_52">instagram</a>'
 
-#style: light # dark (default) or light
-#listen_for_clients_preferred_style: true # true or false (default)
+style: dark # dark (default) or light
+listen_for_clients_preferred_style: true # true or false (default)
 
 plugins:
   - jekyll-seo-tag
