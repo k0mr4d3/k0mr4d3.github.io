@@ -1,7 +1,7 @@
 # Example Site settings
 
 #google_analytics: UA-NNNNNNNN-N
-title: 'k0mr4d3'
+title: "k0mr4d3"
 description: "Where I write about everything"
 baseurl: "/"
 url: "https://k0mr4d3.github.io"
